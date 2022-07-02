@@ -9,8 +9,8 @@ public class App {
         double[] resBK=clbt.findT1Core(arr);
         double[] resT2=clbt.findT2Core(arr);
         System.out.println("y="+res[0]+"x +"+res[1]);
-        System.out.println(resBK[0]+" "+resBK[1]+" "+resBK[2]+" "+resBK[3]);
-        System.out.println(resT2[0]+" "+resT2[1]+" "+resT2[2]+" "+resT2[3]);
+        System.out.println(resBK[0]+" "+resBK[1]+" "+resBK[2]+" "+resBK[3]+" "+resBK[4]);
+        System.out.println(resT2[0]+" "+resT2[1]+" "+resT2[2]+" "+resT2[3]+" "+resT2[4]);
 
 
     }
